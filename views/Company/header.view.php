@@ -19,6 +19,7 @@
                 </div>
                 <div class="borde navega">
                     <a href="">Portafolio</a>
+                    <a href="">Usuarios</a>
                     <a href="">Nosotros</a>
                     <a href="">Contacto</a>
                 </div>
